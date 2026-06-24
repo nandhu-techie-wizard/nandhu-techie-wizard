@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm NANDAELAVARASU KRISHNAMOORTHY</h1>
 <h3 align="center">A Enthusiastic Full stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Hotel Room Booking Project**
+- 🔭 I’m currently working as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **AWS and NextJS**
+- 🌱 I’m currently learning **NextJS**
 
 - 👨‍💻 All of my portfolio are available at [https://nandaelavarasu.netlify.app/](https://nandaelavarasu.netlify.app/)
 
