@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm NANDAELAVARASU KRISHNAMOORTHY</h1>
-<h3 align="center">A Enthusiastic Full stack Developer from India</h3>
+<h3 align="center">A Experienced Full stack Developer from India</h3>
 
 - 🔭 I’m currently working as a **Full Stack Developer**
 
-- 🌱 I’m currently learning **NextJS**
-
-- 👨‍💻 All of my portfolio are available at [https://nandaelavarasu.netlify.app/](https://nandaelavarasu.netlify.app/)
+- 👨‍💻 All of my portfolio are available at [https://nandaelavarasu.netlify.app/]
 
 - 💬 Ask me about **Motivated and enthusiastic certified Full Stack Developer with a passion for creating web applications that are user-friendly, secure, and efficient. I have developed web applications using MERN, and MySQL. I am eager to learn new technologies and apply my skills in a professional environment.**
 
